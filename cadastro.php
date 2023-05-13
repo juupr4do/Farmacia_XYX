@@ -73,7 +73,7 @@
             var senha = document.getElementById('senha').value;
             var email = document.getElementById('email').value;
             if(login == ''){
-                alert('Preencha o campo usuário');
+                alert('Preencha o campo login');
                 document.getElementById('cadastro').action = '';
             }else if(senha == ''){
                 alert('Preencha o campo senha');
