@@ -30,6 +30,9 @@
                 </form>
             </div>
         </center>
+        <div align="right" style="padding-right: 20px;padding-bottom: 20px">
+            <img src="remedio.png" id="moon">
+        </div>
     </body>
     <script>
     
