@@ -4,8 +4,8 @@ página de login, cadastro e esqueceu a senha
 # Configurações
 
 # Pasta
-    Antes de prosseguir com os testes, é necessário que todos os códigos do repositório estejam em uma pasta nomeada Farmacia_XYX para evitar problemas de caminho,
-    principalmento no envio de formulários.
+Antes de prosseguir com os testes, é necessário que todos os códigos do repositório estejam em uma pasta nomeada Farmacia_XYX para evitar problemas de caminho,
+principalmento no envio de formulários.
     
 # Banco
 Eu utilizei o MAMP como meu localhost. Se você usar outro método, provavelmente terá que fazer algumas alterações no arquivo banco.php, você terá que alterar o
@@ -18,7 +18,7 @@ Você também terá que criar o banco, rodando o seguinte comando:
         ```
     
     
-    Após criar o banco, você terá que criar a seguinte tabela 
+Após criar o banco, você terá que criar a seguinte tabela 
     
     
       
