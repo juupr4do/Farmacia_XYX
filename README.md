@@ -13,9 +13,9 @@ $hostname, $username e $password para as configurações do seu local.
 OBS: Para auxiliar a criação do banco utilizei MySQL Workbench.
 Você também terá que criar o banco, rodando o seguinte comando: 
     
-        ```
+       
           CREATE SCHEMA farmacia ;
-        ```
+       
     
     
 Após criar o banco, você terá que criar a seguinte tabela 
