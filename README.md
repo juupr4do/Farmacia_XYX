@@ -12,9 +12,7 @@ página de login, cadastro e esqueceu a senha
     OBS: Para auxiliar a criação do banco utilizei MySQL Workbench.
     Você também terá que criar o banco, rodando o seguinte comando: 
     
-    ```
         CREATE SCHEMA `farmacia` ;
-    ```
     
     
     
