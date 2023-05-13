@@ -40,6 +40,7 @@ Após criar o banco, você terá que criar a seguinte tabela
  
  A seguir um pequeno vídeo demostrativo: 
 
-https://github.com/juupr4do/Farmacia_XYX/assets/42226267/24a1feb4-8b5b-48bd-8739-9cedef532005
+
+https://github.com/juupr4do/Farmacia_XYX/assets/42226267/dad979fb-1920-4da5-b149-b7ad751a7797
 
 
