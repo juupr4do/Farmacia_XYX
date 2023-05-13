@@ -20,6 +20,26 @@ Você também terá que criar o banco, rodando o seguinte comando:
     
 Após criar o banco, você terá que criar a seguinte tabela 
     
-    
+            CREATE TABLE `farmacia`.`cadastro` (
+                `idCadastro` INT NOT NULL AUTO_INCREMENT,
+                `login` VARCHAR(45) NOT NULL,
+                `senha` VARCHAR(45) NOT NULL,
+                `email` VARCHAR(45) NOT NULL,
+                 PRIMARY KEY (`idCadastro`),
+                 UNIQUE INDEX `idcadastro_UNIQUE` (`idCadastro` ASC),
+                 UNIQUE INDEX `login_UNIQUE` (`login` ASC));
       
-    
+ Dessa forma seu banco estará configurando.
+ 
+ # PHP
+ A versão do PHP utilizada foi a versão PHP 8.0.1 do MAMP. 
+ 
+ # Utilização
+ Ao ligar o MAMP ou qualquer outra forma que você desejar utilizar, você deve acessar o link com o caminho, deve ser parecido com esse: 
+ http://localhost/Farmacia_XYX/login.php
+ 
+ A seguir um pequeno vídeo demostrativo: 
+
+https://github.com/juupr4do/Farmacia_XYX/assets/42226267/24a1feb4-8b5b-48bd-8739-9cedef532005
+
+
